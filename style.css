@@ -1,0 +1,55 @@
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to right, hotpink, orange);
+  display: grid;
+  height: 100vh;
+  align-items: center;
+}
+
+/* container style */
+.container {
+  width: 300px;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+/* label style  */
+label {
+  display: block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  color: white;
+}
+
+/* input box style  */
+input[type="number"] {
+  width: 100%;
+  padding: 5px;
+  margin-bottom: 10px;
+  border: none;
+  border-radius: 10px;
+}
+
+h1 {
+  color: blueviolet;
+}
+
+button {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  font-weight: bold;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+#result {
+  margin: 10px;
+  color: royalblue;
+  margin-top: 50px;
+  font-weight: bold;
+}
