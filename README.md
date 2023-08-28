@@ -5,4 +5,4 @@ Calculate bmi by adding height and weight.
 This is a simple BMI calculator which is create by using HTML, CSS & JavaScript
 
 ## Live Demo
-https://todosushi.netlify.app/
+https://bmi-calculator-sushant.netlify.app/
